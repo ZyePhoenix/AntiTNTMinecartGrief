@@ -1,0 +1,7 @@
+# anti tnt minecart block grief
+
+# do tnt minecarts damage blocks
+tntminecartblockgrief: false
+
+# go tnt minecarts damage players
+tntminecartplayerdmg: true
